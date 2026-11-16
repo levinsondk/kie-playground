@@ -1,0 +1,1072 @@
+{
+  "updatedAt": "2026-10-15T09:45:03.263Z",
+  "source": "https://docs.kie.ai/llms.txt",
+  "status": "complete",
+  "coverage": {
+    "discovered": 65,
+    "imported": 65,
+    "unsupported": 0,
+    "failures": []
+  },
+  "documents": [
+    {
+      "docsUrl": "https://docs.kie.ai/market/seedream/seedream-v4-text-to-image.md",
+      "name": "Seedream4.0 - Text to Image",
+      "family": "Seedream",
+      "description": "High-quality photorealistic image generation powered by Seedream4.0's advanced AI model",
+      "cache": "data/sources/market/seedream/seedream-v4-text-to-image.md",
+      "modelIds": [
+        "bytedance/seedream-v4-text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/seedream/seedream-v4-edit.md",
+      "name": "Seedream4.0 - Edit",
+      "family": "Seedream",
+      "description": "Image editing by Seedream4.0",
+      "cache": "data/sources/market/seedream/seedream-v4-edit.md",
+      "modelIds": [
+        "bytedance/seedream-v4-edit"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/seedream/4-5-text-to-image.md",
+      "name": "Seedream4.5 - Text to Image",
+      "family": "Seedream",
+      "description": "High-quality photorealistic image generation powered by Seedream's advanced AI model",
+      "cache": "data/sources/market/seedream/4-5-text-to-image.md",
+      "modelIds": [
+        "seedream/4.5-text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/seedream/4-5-edit.md",
+      "name": "Seedream4.5 - Edit",
+      "family": "Seedream",
+      "description": "Image editing by Seedream4.5",
+      "cache": "data/sources/market/seedream/4-5-edit.md",
+      "modelIds": [
+        "seedream/4.5-edit"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/seedream/5-lite-text-to-image.md",
+      "name": "Seedream5.0 Lite - Text to Image",
+      "family": "Seedream",
+      "description": "High-quality photorealistic image generation powered by Seedream's advanced AI model",
+      "cache": "data/sources/market/seedream/5-lite-text-to-image.md",
+      "modelIds": [
+        "seedream/5-lite-text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/seedream-5-lite-image-to-image.md",
+      "name": "Seedream5.0 Lite - Image to Image",
+      "family": "Seedream",
+      "description": "Image editing with Seedream 5.0 Lite",
+      "cache": "data/sources/market/seedream-5-lite-image-to-image.md",
+      "modelIds": [
+        "seedream/5-lite-image-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/seedream/5-pro-text-to-image.md",
+      "name": "Seedream5.0 Pro - Text to Image",
+      "family": "Seedream",
+      "description": "High-quality photorealistic image generation powered by Seedream's advanced AI model",
+      "cache": "data/sources/market/seedream/5-pro-text-to-image.md",
+      "modelIds": [
+        "seedream/5-pro-text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/seedream/5-pro-image-to-image.md",
+      "name": "Seedream5.0 Pro - Image to Image",
+      "family": "Seedream",
+      "description": "Image editing with Seedream 5.0 Pro",
+      "cache": "data/sources/market/seedream/5-pro-image-to-image.md",
+      "modelIds": [
+        "seedream/5-pro-image-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/seedream/5-pro-layer-decomposition.md",
+      "name": "Seedream5.0 Pro -  Layer Decomposition",
+      "family": "Seedream",
+      "description": "Layer decomposition with Seedream 5.0 Pro: split an image into a base image and separate layers.",
+      "cache": "data/sources/market/seedream/5-pro-layer-decomposition.md",
+      "modelIds": [
+        "seedream/5-pro-layer-decomposition"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/seedream/seedream.md",
+      "name": "Seedream3.0 - Text to Image",
+      "family": "Seedream",
+      "description": "Image generation by Seedream3.0",
+      "cache": "data/sources/market/seedream/seedream.md",
+      "modelIds": [
+        "bytedance/seedream"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/seedream/5-flash-text-to-image.md",
+      "name": "Seedream5.0 Flash - Text to Image",
+      "family": "Seedream",
+      "description": "High-quality photorealistic image generation powered by Seedream's advanced AI model",
+      "cache": "data/sources/market/seedream/5-flash-text-to-image.md",
+      "modelIds": [
+        "seedream/5-flash-text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/seedream/5-flash-image-to-image.md",
+      "name": "Seedream5.0 Flash - Image to Image",
+      "family": "Seedream",
+      "description": "Image editing with Seedream 5.0 Flash",
+      "cache": "data/sources/market/seedream/5-flash-image-to-image.md",
+      "modelIds": [
+        "seedream/5-flash-image-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/seedream/5-flash-layer-decomposition.md",
+      "name": "Seedream5.0 Flash -  Layer Decomposition",
+      "family": "Seedream",
+      "description": "Layer decomposition with Seedream 5.0 Flash: split an image into a base image and separate layers.",
+      "cache": "data/sources/market/seedream/5-flash-layer-decomposition.md",
+      "modelIds": [
+        "seedream/5-flash-layer-decomposition"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/z-image/z-image.md",
+      "name": "Z-Image",
+      "family": "Z-image",
+      "description": "Image generation by z-image",
+      "cache": "data/sources/market/z-image/z-image.md",
+      "modelIds": [
+        "z-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/google/imagen4-fast.md",
+      "name": "Google - imagen4-fast",
+      "family": "Google",
+      "description": "Image generation by Google imagen4-fast",
+      "cache": "data/sources/market/google/imagen4-fast.md",
+      "modelIds": [
+        "google/imagen4-fast"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/google/imagen4-ultra.md",
+      "name": "Google - imagen4-ultra",
+      "family": "Google",
+      "description": "Image generation by Google imagen4-ultra",
+      "cache": "data/sources/market/google/imagen4-ultra.md",
+      "modelIds": [
+        "google/imagen4-ultra"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/google/imagen4.md",
+      "name": "Google - imagen4",
+      "family": "Google",
+      "description": "Image generation by Google imagen4",
+      "cache": "data/sources/market/google/imagen4.md",
+      "modelIds": [
+        "google/imagen4"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/google/nano-banana-edit.md",
+      "name": "Google - Nano Banana Edit",
+      "family": "Google",
+      "description": "Image editing using Google's Nano Banana Edit model",
+      "cache": "data/sources/market/google/nano-banana-edit.md",
+      "modelIds": [
+        "google/nano-banana-edit"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/google/nano-banana.md",
+      "name": "Google - Nano Banana",
+      "family": "Google",
+      "description": "Content generation using google/nano-banana",
+      "cache": "data/sources/market/google/nano-banana.md",
+      "modelIds": [
+        "google/nano-banana"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/google/pro-image-to-image.md",
+      "name": "Google - Nano Banana Pro",
+      "family": "Google",
+      "description": "Image generation using Google's Pro Image to Image model",
+      "cache": "data/sources/market/google/pro-image-to-image.md",
+      "modelIds": [
+        "nano-banana-pro"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/google/nanobanana2.md",
+      "name": "Google - Nano Banana 2",
+      "family": "Google",
+      "description": "Image generation by Nano Banana 2",
+      "cache": "data/sources/market/google/nanobanana2.md",
+      "modelIds": [
+        "nano-banana-2"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/google/nanobanana-2-1.md",
+      "name": "Google - Nano Banana 2.1",
+      "family": "Google",
+      "description": "Image generation by Nano Banana 2.1",
+      "cache": "data/sources/market/google/nanobanana-2-1.md",
+      "modelIds": [
+        "nano-banana-2-1"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/google/nano-banana-2-lite.md",
+      "name": "Google - Nano Banana 2 Lite",
+      "family": "Google",
+      "description": "## Create Task",
+      "cache": "data/sources/market/google/nano-banana-2-lite.md",
+      "modelIds": [
+        "nano-banana-2-lite"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/flux2/pro-image-to-image.md",
+      "name": "Flux-2 - Pro Image to Image",
+      "family": "Flux-2",
+      "description": "Image generation by flux-2/pro-image-to-image",
+      "cache": "data/sources/market/flux2/pro-image-to-image.md",
+      "modelIds": [
+        "flux-2/pro-image-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/flux2/pro-text-to-image.md",
+      "name": "Flux-2 - Pro Text to Image",
+      "family": "Flux-2",
+      "description": "High-quality photorealistic image generation powered by Flux-2's advanced AI model",
+      "cache": "data/sources/market/flux2/pro-text-to-image.md",
+      "modelIds": [
+        "flux-2/pro-text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/flux2/flex-image-to-image.md",
+      "name": "Flux-2 - Image to Image",
+      "family": "Flux-2",
+      "description": "Image generation by flux-2/flex-image-to-image",
+      "cache": "data/sources/market/flux2/flex-image-to-image.md",
+      "modelIds": [
+        "flux-2/flex-image-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/flux2/flex-text-to-image.md",
+      "name": "Flux-2 - Text to Image",
+      "family": "Flux-2",
+      "description": "High-quality photorealistic image generation powered by Flux-2's advanced AI model",
+      "cache": "data/sources/market/flux2/flex-text-to-image.md",
+      "modelIds": [
+        "flux-2/flex-text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/grok-imagine-image-2-0/text-to-image.md",
+      "name": "Grok Imagine Image 2.0 Text To Image",
+      "family": "Grok Imagine",
+      "description": "## Create Task",
+      "cache": "data/sources/market/grok-imagine-image-2-0/text-to-image.md",
+      "modelIds": [
+        "grok-imagine-image-2-0/text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/grok-imagine-image-2-0/segment-map.md",
+      "name": "Grok Imagine Image 2.0 Segment Map",
+      "family": "Grok Imagine",
+      "description": "## Create Task",
+      "cache": "data/sources/market/grok-imagine-image-2-0/segment-map.md",
+      "modelIds": [
+        "grok-imagine-image-2-0/segment-map"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/grok-imagine-image-2-0/image-edit.md",
+      "name": "Grok Imagine Image 2.0 Segment Edit",
+      "family": "Grok Imagine",
+      "description": "## Create Task",
+      "cache": "data/sources/market/grok-imagine-image-2-0/image-edit.md",
+      "modelIds": [
+        "grok-imagine-image-2-0/segment-edit"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/grok-imagine/text-to-image.md",
+      "name": "Grok Imagine - Text to Image",
+      "family": "Grok Imagine",
+      "description": "## Query Task Status",
+      "cache": "data/sources/market/grok-imagine/text-to-image.md",
+      "modelIds": [
+        "grok-imagine/text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/grok-imagine-image-2-0/image-to-image.md",
+      "name": "Grok Imagine Image 2.0 Image Edit",
+      "family": "Grok Imagine",
+      "description": "## Query Task Status",
+      "cache": "data/sources/market/grok-imagine-image-2-0/image-to-image.md",
+      "modelIds": [
+        "grok-imagine-image-2-0/image-edit"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/grok-imagine/image-to-image.md",
+      "name": "Grok Imagine - image to image",
+      "family": "Grok Imagine",
+      "description": "Content generation using grok-imagine/image-to-image",
+      "cache": "data/sources/market/grok-imagine/image-to-image.md",
+      "modelIds": [
+        "grok-imagine/image-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/gpt/gpt-image-2-5-flare-text-to-image.md",
+      "name": "GPT Image 2.5 Flare - Text to Image",
+      "family": "GPT Image",
+      "description": "## Create Task",
+      "cache": "data/sources/market/gpt/gpt-image-2-5-flare-text-to-image.md",
+      "modelIds": [
+        "gpt-image-2-5-flare-text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/gpt/gpt-image-2-5-flare-image-to-image.md",
+      "name": "GPT Image 2.5 Flare - Image To Image",
+      "family": "GPT Image",
+      "description": "## Create Task",
+      "cache": "data/sources/market/gpt/gpt-image-2-5-flare-image-to-image.md",
+      "modelIds": [
+        "gpt-image-2-5-flare-image-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/gpt/gpt-image-2-5-sunburst-text-to-image.md",
+      "name": "GPT Image 2.5 Sunburst - Text to Image",
+      "family": "GPT Image",
+      "description": "## Create Task",
+      "cache": "data/sources/market/gpt/gpt-image-2-5-sunburst-text-to-image.md",
+      "modelIds": [
+        "gpt-image-2-5-sunburst-text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/gpt/gpt-image-2-5-sunburst-image-to-image.md",
+      "name": "GPT Image 2.5 Sunburst - Image To Image",
+      "family": "GPT Image",
+      "description": "## Create Task",
+      "cache": "data/sources/market/gpt/gpt-image-2-5-sunburst-image-to-image.md",
+      "modelIds": [
+        "gpt-image-2-5-sunburst-image-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/gpt-image/1-5-text-to-image.md",
+      "name": "GPT Image-1.5 - Text to Image",
+      "family": "GPT Image",
+      "description": "## Overview",
+      "cache": "data/sources/market/gpt-image/1-5-text-to-image.md",
+      "modelIds": [
+        "gpt-image/1.5-text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/gpt-image/1-5-image-to-image.md",
+      "name": "GPT Image-1.5 - Image to Image",
+      "family": "GPT Image",
+      "description": "## Overview",
+      "cache": "data/sources/market/gpt-image/1-5-image-to-image.md",
+      "modelIds": [
+        "gpt-image/1.5-image-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/gpt/gpt-image-2-text-to-image.md",
+      "name": "GPT Image-2 - Text to Image",
+      "family": "GPT Image",
+      "description": "## Create Task",
+      "cache": "data/sources/market/gpt/gpt-image-2-text-to-image.md",
+      "modelIds": [
+        "gpt-image-2-text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/gpt/gpt-image-2-image-to-image.md",
+      "name": "GPT Image 2 - Image To Image",
+      "family": "GPT Image",
+      "description": "## Create Task",
+      "cache": "data/sources/market/gpt/gpt-image-2-image-to-image.md",
+      "modelIds": [
+        "gpt-image-2-image-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/topaz/image-upscale.md",
+      "name": "Topaz - Image Upscale",
+      "family": "Topaz",
+      "description": "Enhance image resolution and quality using advanced AI upscaling powered by Topaz",
+      "cache": "data/sources/market/topaz/image-upscale.md",
+      "modelIds": [
+        "topaz/image-upscale"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/recraft/remove-background.md",
+      "name": "Recraft - Remove Background",
+      "family": "Recraft",
+      "description": "remove background by recraft/remove-background",
+      "cache": "data/sources/market/recraft/remove-background.md",
+      "modelIds": [
+        "recraft/remove-background"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/recraft/crisp-upscale.md",
+      "name": "Recraft - Crisp Upscale",
+      "family": "Recraft",
+      "description": "Enhance image resolution and quality using advanced AI upscaling powered by Recraft",
+      "cache": "data/sources/market/recraft/crisp-upscale.md",
+      "modelIds": [
+        "recraft/crisp-upscale"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/ideogram/character-edit.md",
+      "name": "Ideogram - Character Edit",
+      "family": "Ideogram",
+      "description": "Image generation by ideogram/character-edit",
+      "cache": "data/sources/market/ideogram/character-edit.md",
+      "modelIds": [
+        "ideogram/character-edit"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/ideogram/character-remix.md",
+      "name": "Ideogram - Character Remix",
+      "family": "Ideogram",
+      "description": "Image generation by ideogram/character-remix",
+      "cache": "data/sources/market/ideogram/character-remix.md",
+      "modelIds": [
+        "ideogram/character-remix"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/ideogram/character.md",
+      "name": "Ideogram - Character",
+      "family": "Ideogram",
+      "description": "Image generation by ideogram/character",
+      "cache": "data/sources/market/ideogram/character.md",
+      "modelIds": [
+        "ideogram/character"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/ideogram/v3-text-to-image.md",
+      "name": "Ideogram V3 Text to Image",
+      "family": "Ideogram",
+      "description": "Image generation by ideogram/v3-text-to-image",
+      "cache": "data/sources/market/ideogram/v3-text-to-image.md",
+      "modelIds": [
+        "ideogram/v3-text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/ideogram/v3-edit.md",
+      "name": "Ideogram V3 Edit",
+      "family": "Ideogram",
+      "description": "Image generation by ideogram/v3-edit",
+      "cache": "data/sources/market/ideogram/v3-edit.md",
+      "modelIds": [
+        "ideogram/v3-edit"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/ideogram/v3-remix.md",
+      "name": "Ideogram V3 Remix",
+      "family": "Ideogram",
+      "description": "Image generation by ideogram/v3-remix",
+      "cache": "data/sources/market/ideogram/v3-remix.md",
+      "modelIds": [
+        "ideogram/v3-remix"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/qwen/text-to-image.md",
+      "name": "Qwen - Text to Image",
+      "family": "Qwen",
+      "description": "High-quality photorealistic image generation powered by Qwen's advanced AI model",
+      "cache": "data/sources/market/qwen/text-to-image.md",
+      "modelIds": [
+        "qwen/text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/qwen/image-to-image.md",
+      "name": "Qwen - Image to Image",
+      "family": "Qwen",
+      "description": "Image generation by Qwen's advanced AI model",
+      "cache": "data/sources/market/qwen/image-to-image.md",
+      "modelIds": [
+        "qwen/image-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/qwen/image-edit.md",
+      "name": "Qwen - Image Edit",
+      "family": "Qwen",
+      "description": "Image generation by qwen/image-edit",
+      "cache": "data/sources/market/qwen/image-edit.md",
+      "modelIds": [
+        "qwen/image-edit"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/qwen2/image-edit.md",
+      "name": "Qwen2 - Image Edit",
+      "family": "Qwen",
+      "description": "Image generation by qwen2/image-edit",
+      "cache": "data/sources/market/qwen2/image-edit.md",
+      "modelIds": [
+        "qwen2/image-edit"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/qwen2/text-to-image.md",
+      "name": "Qwen2 - Text To Image",
+      "family": "Qwen",
+      "description": "Image generation by qwen2/text-to-image",
+      "cache": "data/sources/market/qwen2/text-to-image.md",
+      "modelIds": [
+        "qwen2/text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/qwen2-1/text-to-image.md",
+      "name": "Qwen 2.1 - Text to Image",
+      "family": "Qwen",
+      "description": "## Query Task Status",
+      "cache": "data/sources/market/qwen2-1/text-to-image.md",
+      "modelIds": [
+        "qwen2-1/text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/qwen2-1/image-to-image.md",
+      "name": "Qwen 2.1 - Image to Image",
+      "family": "Qwen",
+      "description": "## Query Task Status",
+      "cache": "data/sources/market/qwen2-1/image-to-image.md",
+      "modelIds": [
+        "qwen2-1/image-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/qwen3-pro/text-to-image.md",
+      "name": "Qwen3 Pro Text to Image",
+      "family": "Qwen",
+      "description": "## Create Task",
+      "cache": "data/sources/market/qwen3-pro/text-to-image.md",
+      "modelIds": [
+        "qwen3/pro-text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/qwen3/text-to-image.md",
+      "name": "Qwen3 Text to Image",
+      "family": "Qwen",
+      "description": "## Create Task",
+      "cache": "data/sources/market/qwen3/text-to-image.md",
+      "modelIds": [
+        "qwen3/text-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/qwen3-pro/image-to-image.md",
+      "name": "Qwen3 Pro Image to Image",
+      "family": "Qwen",
+      "description": "## Create Task",
+      "cache": "data/sources/market/qwen3-pro/image-to-image.md",
+      "modelIds": [
+        "qwen3/pro-image-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/qwen3/image-to-image.md",
+      "name": "Qwen3 Image to Image",
+      "family": "Qwen",
+      "description": "## Create Task",
+      "cache": "data/sources/market/qwen3/image-to-image.md",
+      "modelIds": [
+        "qwen3/image-to-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/wan/2-7-image.md",
+      "name": "Wan 2.7 Image",
+      "family": "Wan",
+      "description": "Based on wan/2-7-image, image generation and editing are achieved.",
+      "cache": "data/sources/market/wan/2-7-image.md",
+      "modelIds": [
+        "wan/2-7-image"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/market/wan/2-7-image-pro.md",
+      "name": "Wan 2.7 Image Pro",
+      "family": "Wan",
+      "description": "Based on wan/2-7-image-pro, image generation and editing are achieved.",
+      "cache": "data/sources/market/wan/2-7-image-pro.md",
+      "modelIds": [
+        "wan/2-7-image-pro"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/4o-image-api/generate-4-o-image.md",
+      "name": "Generate 4o Image",
+      "family": "4o Image API",
+      "description": ":::warning",
+      "cache": "data/sources/4o-image-api/generate-4-o-image.md",
+      "modelIds": [
+        "4o-image-api"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/flux-kontext-api/generate-or-edit-image.md",
+      "name": "Generate or Edit Image",
+      "family": "Flux Kontext API",
+      "description": ":::warning",
+      "cache": "data/sources/flux-kontext-api/generate-or-edit-image.md",
+      "modelIds": [
+        "flux1-kontext"
+      ],
+      "status": "imported",
+      "unsupported": 0
+    }
+  ],
+  "excluded": [
+    {
+      "docsUrl": "https://docs.kie.ai/4o-image-api/generate-4-o-image-callbacks.md",
+      "reason": "Callback documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/flux-kontext-api/generate-or-edit-image-callbacks.md",
+      "reason": "Callback documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/4o-image-api/generate-4-o-image-callbacks.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/flux-kontext-api/generate-or-edit-image-callbacks.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/seedream/seedream-v3.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/seedream/seedream-v4-text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/seedream/seedream-v4-edit.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/seedream/4-5-text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/seedream/4-5-edit.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/seedream/5-lite-text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/seedream/5-lite-image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/seedream/5-pro-text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/seedream/5-pro-image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/seedream/5-pro-layer-decomposition.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/seedream/5-flash-text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/seedream/5-flash-image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/seedream/5-flash-layer-decomposition.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/z-image/z-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/google/nanobanana2.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/google/imagen4-fast.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/google/imagen4-ultra.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/google/imagen4.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/google/nano-banana-edit.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/google/nano-banana.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/google/pro-image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/google/nanobanana-2-1.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/google/nano-banana-2-lite.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/flux2/pro-image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/flux2/pro-text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/flux2/flex-image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/flux2/flex-text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/grok-imagine-image-2-0/text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/grok-imagine-image-2-0/segment-map.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/grok-imagine-image-2-0/image-edit.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/grok-imagine/text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/grok-imagine-image-2-0/image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/grok-imagine/image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/gpt/gpt-image-2-5-flare-text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/gpt/gpt-image-2-5-flare-image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/gpt/gpt-image-2-5-sunburst-text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/gpt/gpt-image-2-5-sunburst-image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/gpt-image/1-5-text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/gpt-image/1-5-image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/gpt/gpt-image-2-text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/gpt/gpt-image-2-image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/topaz/image-upscale.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/recraft/remove-background.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/recraft/crisp-upscale.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/ideogram/character-edit.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/ideogram/character-remix.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/ideogram/character.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/ideogram/v3-text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/ideogram/v3-edit.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/ideogram/v3-remix.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/qwen/text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/qwen/image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/qwen/image-edit.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/qwen2/image-edit.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/qwen2/text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/qwen3-pro/text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/qwen2-1/text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/qwen2-1/image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/qwen3/text-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/qwen3-pro/image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/qwen3/image-to-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/4o-image-api/generate-4-o-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/flux-kontext-api/generate-or-edit-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/wan/2-7-image.md",
+      "reason": "Non-English documentation"
+    },
+    {
+      "docsUrl": "https://docs.kie.ai/cn/market/wan/2-7-image-pro.md",
+      "reason": "Non-English documentation"
+    }
+  ],
+  "removedModelIds": []
+}
